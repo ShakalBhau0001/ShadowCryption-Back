@@ -1,1 +1,10 @@
-
+fastapi
+uvicorn
+uvicorn[standard]
+python-multipart
+cryptography
+pillow
+python-dotenv
+black
+flake8
+pytest
