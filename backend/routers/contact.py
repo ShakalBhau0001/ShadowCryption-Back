@@ -9,8 +9,8 @@ router = APIRouter(prefix="/api", tags=["contact"])
 
 SMTP_HOST = os.getenv("SMTP_HOST", "smtp.gmail.com")
 SMTP_PORT = int(os.getenv("SMTP_PORT", 587))
-SMTP_USER = os.getenv("SMTP_USER", "shakalbhau007@gmail.com")
-SMTP_PASS = os.getenv("SMTP_PASS", "ycnz wezv edan gsbg")
+SMTP_USER = os.getenv("SMTP_USER", "")
+SMTP_PASS = os.getenv("SMTP_PASS", "")
 CONTACT_TO = os.getenv("CONTACT_TO", SMTP_USER)
 CONTACT_LOG_PATH = os.getenv("CONTACT_LOG_PATH", "contact_messages.jsonl")
 
