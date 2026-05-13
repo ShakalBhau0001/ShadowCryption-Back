@@ -22,3 +22,18 @@ ShadowCryption-Back/
         ├── stego_audio.py
         └── stego_image.py
 ```
+---
+
+## 🪪 Author
+
+> **Developer: Shakal Bhau**
+
+> **GitHub: [ShakalBhau0001](https://github.com/ShakalBhau0001)**
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
